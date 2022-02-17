@@ -118,5 +118,3 @@ The administrators of this repository include:
   * Jon Zhang (yang.zhang@nist.gov)
   * Ray Plante (raymond.plante@nist.gov)
   * Christopher David (christopher.davis@nist.gov)
-
-testing
